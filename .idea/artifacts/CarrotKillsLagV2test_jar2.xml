@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarrotKillsLagV2test:jar2">
+    <output-path>$USER_HOME$/Desktop/MCModding/testserver/plugins</output-path>
+    <root id="archive" name="CarrotKillsLagV2.jar">
+      <element id="module-output" name="CarrotKillsLagV2" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/chunkConfig.yml" />
+    </root>
+  </artifact>
+</component>

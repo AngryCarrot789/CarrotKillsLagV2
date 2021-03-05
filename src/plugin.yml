@@ -1,0 +1,18 @@
+name: CarrotKillsLag
+version: 1.0
+description: A plugin for reducing lag and stopping crashes
+author: Carrot/TheR
+main: carrot.ckl.CarrotKillsLag
+prefix: CarrotKillsLag
+permissions:
+  carrot.ckl:
+    description: Access to the main command
+
+commands:
+  ckl:
+    permission: carrot.ckl
+    description: Main command for CarrotKillsLag
+    usage: /ckl
+  lolidk:
+    description: lul
+    default: true
